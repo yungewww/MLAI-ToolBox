@@ -34,7 +34,7 @@
                     "attack": 10,
                     "health": 0,
                     "door": 1,
-                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/banana.jpg"    
+                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/cat.jpg"    
                 },
                 {
                     "itemName": "Apple",
@@ -42,7 +42,7 @@
                     "pickable": true,
                     "attack": 0,
                     "health": 10,
-                    "spriteAddress": "Sprites/Apple"
+                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/banana.jpg"
                 }
             ],
             "doorList": [
