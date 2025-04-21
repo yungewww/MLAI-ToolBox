@@ -1,0 +1,87 @@
+﻿{
+    "levelList": [
+        {
+            "tileData": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+            },
+            "NPCList": [
+                {
+                    "NPCName": "Hunter",
+                    "description": "A friendly hunter holding a gun.",
+                    "dialogue": [
+                        "Let me help you"
+                    ],
+                    "attack": 0,
+                    "health": 10,
+                    "friend": true,
+                    "door": 1,
+                    "spriteAddress": "Sprites/Keqing"
+                }
+            ],
+            "playerData": {
+                "health": 1,
+                "attack": 0,
+                "spriteAddress": "Sprites/RedHat"
+            },
+            "itemList": [
+	            {
+                    "itemName": "knife",
+                    "description": "A sharp blade, useful for survival.",
+                    "pickable": true,
+                    "attack": 10,
+                    "health": 0,
+                    "door": 1,
+                    "spriteAddress": "Sprites/Knife"    
+                },
+                {
+                    "itemName": "Apple",
+                    "description": "An apple to eat",
+                    "pickable": true,
+                    "attack": 0,
+                    "health": 10,
+                    "spriteAddress": "Sprites/Apple"    
+                }
+            ],
+            "doorList": [
+                {
+                    "index": 1,
+                    "spriteAddress": "Sprites/Door"   
+                }
+            ]
+        },
+        {
+            "tileData": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "NPCList": [
+                {
+                    "NPCName": "Wolf",
+                    "description": "A fierce wolf with glowing eyes.",
+                    "dialogue": [
+                        "Hi little girl, I will eat you!",
+                        "You can't run away!"
+                    ],
+                    "attack": 15,
+                    "health": 10,
+                    "door": 1,
+                    "friend": false,
+                    "spriteAddress": "Sprites/Wolf"
+                }
+            ],
+            "itemList": [
+            ],
+            "doorList": [
+                {
+                    "index": 1,
+                    "spriteAddress": "Sprites/Door"   
+                }
+            ]
+        }
+    ]
+}
