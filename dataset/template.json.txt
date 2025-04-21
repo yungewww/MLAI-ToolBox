@@ -1,4 +1,4 @@
-﻿{
+{
     "levelList": [
         {
             "tileData": {
@@ -18,13 +18,13 @@
                     "health": 10,
                     "friend": true,
                     "door": 1,
-                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/cat.jpg"
+                    "spriteAddress": "Sprites/Keqing"
                 }
             ],
             "playerData": {
                 "health": 1,
                 "attack": 0,
-                "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/cat.jpg"
+                "spriteAddress": "Sprites/RedHat"
             },
             "itemList": [
 	            {
@@ -42,13 +42,13 @@
                     "pickable": true,
                     "attack": 0,
                     "health": 10,
-                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/cat.jpg"    
+                    "spriteAddress": "Sprites/Apple"    
                 }
             ],
             "doorList": [
                 {
                     "index": 1,
-                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/cat.jpg"   
+                    "spriteAddress": "Sprites/Door"   
                 }
             ]
         },
@@ -71,7 +71,7 @@
                     "health": 10,
                     "door": 1,
                     "friend": false,
-                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/dog.jpg"
+                    "spriteAddress": "Sprites/Wolf"
                 }
             ],
             "itemList": [
@@ -79,7 +79,7 @@
             "doorList": [
                 {
                     "index": 1,
-                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/cat.jpg"   
+                    "spriteAddress": "Sprites/Door"   
                 }
             ]
         }
