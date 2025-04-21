@@ -42,7 +42,7 @@
                     "pickable": true,
                     "attack": 0,
                     "health": 10,
-                    "spriteAddress": "Sprites/Apple"    
+                    "spriteAddress": "https://raw.githubusercontent.com/yungewww/MLAI-ToolBox/refs/heads/main/dataset/banana.jpg"
                 }
             ],
             "doorList": [
